@@ -7,11 +7,12 @@
 </div>
 
 <hr />
+
 - 📚 I have a Bachelor's degree in Chemistry and have decided to make a career transition as a Java Developer after training by FDM.  <br/>
 - 🔭 I am capable to contribute to frontend and backend for building web applications <br/>
 - 🌱 I’m currently learning .NET API with C# and familiarizing with Design Pattern <br/>
 - ⚡ I'm looking out for new job opportunities and guidance on improving myself as a Software Developer  <br/>
-- 📫 How to reach me: - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junfengl/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junfengl/)
 
 <hr />
 
