@@ -1,14 +1,19 @@
+### About Me
+
+<hr />
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ1ODBuanhoYjFpenhpem03Z3dqNDdnYmN2Zmgwdm0zNzRqa24ybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SlaiZOZAoL0xRoVYhI/giphy.gif" width="600" height="300"/>
 </div>
 
-### About Me:
-
-- 🔭 I have been trained as a Java Developer with FDM and am capable to contribute to frontend and backend for building web applications
-- 🌱 I’m currently learning .NET API with C# and familiarizing with Design Pattern
+<hr />
+- 📚 I have a Bachelor's degree in Chemistry and have decided to make a career transition as a Java Developer after training by FDM.  <br/>
+- 🔭 I am capable to contribute to frontend and backend for building web applications <br/>
+- 🌱 I’m currently learning .NET API with C# and familiarizing with Design Pattern <br/>
+- ⚡ I'm looking out for new job opportunities and guidance on improving myself as a Software Developer  <br/>
 - 📫 How to reach me: - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junfengl/)
 
-
+<hr />
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
